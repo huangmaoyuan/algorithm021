@@ -1,8 +1,8 @@
-学习笔记 
+学习笔记     
 1，哈希一般添加、删除、查询都是o（1）的复杂度。如哈希函数不好求，可使用拉链式解决冲突法，在做哈希后拉出一个链表，复杂度变成o（n）。   
 2，面试时的解题过程：   
    （1）clarification   
-   （2）possible solutions  ——》optimal （time & space）
+   （2）possible solutions  ——》optimal （time & space）      
    （3）code   
    （4）test   
 3，链表是特殊的树，树是特殊的图。   
